@@ -1,0 +1,150 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.new-year-head{
+    height: 500px;
+    width: 85%;
+    margin: 0 auto;
+    border: 2px solid black;
+    background-image: url(./img/resources/Banner\ Image.png);
+    background-size:cover;
+    border-radius: 16px;
+    background-position: center;
+    background: linear-gradient( rgba(7, 17, 7, 0.00) 100%);
+
+}.wish{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+     text-align: center;
+     margin-top: 170px;
+}  .party{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+;
+}
+.sale{
+    margin-top: 90px;
+    margin-left: 280px;
+    margin-right:300px ;
+    padding-left: 75px;
+}.sale-img img{
+    height: 200px;
+    width: 250px;
+    
+}.sale-head{
+    color: #F00;
+    text-align: center;
+    font-size: 60px;
+    font-style: normal; 
+    font-weight: 700;
+
+}.sale-better{
+    color: #F00;
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+      
+}.sale-intro{
+    color: #070211;
+text-align: center;
+font-size: 33px;
+font-style: normal;
+font-weight: 700;
+
+}
+.benn-img img{
+    height:200px ;
+    width: 250px; 
+    
+}.wel-benn{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    height: 300px;
+    background-image: url(../img/resources/Vectorrr.png);
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    margin-top: 40px;
+    margin-left:200px ;
+    margin-right: 60px;
+    background-position: center;
+    background-size: cover;
+    padding: 40px;
+    border-radius: 5px;
+}.benn-img{
+ padding-left: 250px;
+}
+
+
+
+.benn-intro{
+    color: #FFF;
+    font-size: 44px;
+    font-weight: 900;
+
+}.benn-des{
+    margin-top: 13px;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 400;
+
+}.benn-head{
+    text-align: center;
+}.benn-btn{
+    color: #FFF;
+    border: hidden; 
+    margin-top: 13px;
+    font-size: small;
+    border-radius: 2px;
+}.time{
+    height: 250px;
+    width: 70%;
+    margin-left: 200px;
+    margin-right: 60px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 70px;
+    line-height: 33px;
+    border-radius: 4px;
+    background-image: linear-gradient( rgb(209, 184, 190),rgb(231, 231, 212));
+}.red{
+    color: #F00;
+}.time-btn{
+ text-align: center;
+ border-radius: 3px;
+ background-color: #F00;
+ color: #FFF;
+ font-size: 8px;
+ height: 20px;
+ width: 40px;
+ border: 0;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}.only-img{
+    height: 200px;
+    width: 70%;
+    margin-left: 200px;
+    margin-right: 60px;
+    margin-top: 4px;
+    position: relative;
+}.only-img img{
+    height: 35px;
+    width: 42px;
+    
+}.only{
+    position: absolute;
+    bottom: 0;
+    right: 40px;
+}
