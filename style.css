@@ -76,7 +76,7 @@ font-weight: 700;
     width: 70%;
     height: 300px;
     background-image: url(../img/resources/Vectorrr.png);
-    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    fill: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75));
     margin-top: 40px;
     margin-left:200px ;
     margin-right: 60px;
@@ -148,3 +148,62 @@ font-weight: 700;
     bottom: 0;
     right: 40px;
 }
+ .holiday-sale{
+    height: 500px;
+    width: 70%;
+    margin-left: 200px;
+    margin-right: 60px;
+    border-radius: 10px;
+    position: relative;
+ }.holiday-sale .holiday-intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+     
+ }.holy-head1{
+    color: #070211;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+ }.holy-head2 span{
+    color: #F00;
+ }.holy-head2{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }.holy-head3{
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 15px;
+    font-family:
+     'Times New Roman', Times, serif;
+
+ }.holiday-sale .holiday-img .img-1 img{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    right: 0px;
+    bottom:100px;
+    
+    
+ }.holiday-sale .holiday-img .img-2 img{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    right:150px;
+    bottom:190px;
+ }.holiday-sale .holiday-img .img-3 img{
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+ }.holiday-sale .holiday-img .img-4 img{
+    height:350px;
+    width: 350px;
+    position: absolute;
+    left: 50px;
+    bottom: 20px;
+    background: linear-gradient(rgba(252, 251, 251, 0.4)rgba(255,255,255,0.6));
+
+ }
